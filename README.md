@@ -22,7 +22,7 @@ October is breast awareness month which is alone for motivation to choose the da
 
 
 ## MACHINE LEARNING MODEL
-**Linear Regression** - We will analyze the relationship of race/ethnicity and gender to the incident and mortality rate of Breast Cancer. Since race/ethnicity and gender are categorical datas, we will use Pandas' `get_dummies` to translate the data into neumerical data.
+**Linear Regression** - We will analyze the relationship of race/ethnicity and gender to the incident and mortality rate of Breast Cancer. Since race/ethnicity and gender are categorical datas, we will use Pandas' `get_dummies` to translate the data into numerical data.
 ## Citation: 
 United States and Puerto Rico Cancer Statistics. (n.d.). Center for Disease Control and Prevention. Retrieved October 15, 2022, from https://wonder.cdc.gov/cancer-v2019.HTML
 ## Data : 
