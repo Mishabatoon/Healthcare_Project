@@ -18,7 +18,7 @@ October is breast awareness month which is alone for motivation to choose the da
 
 
 ## ERD DIAGRAM
-![enter image description here](https://github.com/Mishabatoon/Healthcare_Project/blob/main/BreastCancerERD.png?raw=true)
+![enter image description here](https://github.com/Mishabatoon/Healthcare_Project/blob/main/ERD/BreastCancerERD.jpg?raw=true)
 
 
 ## MACHINE LEARNING MODEL
