@@ -20,6 +20,11 @@ October is breast awareness month which was motivation to choose the data. We ai
 Jupyter notebook was used to process and clean all data sets (we took three data sets). After cleaning them we performed Linear Regression and Logistic regression on incidence and mortality data sets to predict and look for accuracy scores. For breast cancer detection we performed Detection Tree Classifier , Random Forest and Logistic regression to accurately predict dtection of cancer.
 
 
+## WEBPAGE / DASHBOARD
+Click the link: https://mishabatoon.github.io/breastcancer/
+
+
+
 ## RESULTS
 
 **Linear Regression Model:** We analyzed the relationship of race and gender to the incident and mortality rate of Breast Cancer.
