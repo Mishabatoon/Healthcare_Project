@@ -20,6 +20,9 @@ October is breast awareness month which was motivation to choose the data. We ai
 Jupyter notebook was used to process and clean all data sets (we took three data sets). After cleaning them we performed Linear Regression and Logistic regression on incidence and mortality data sets to predict and look for accuracy scores. For breast cancer detection we performed Detection Tree Classifier , Random Forest and Logistic regression to accurately predict dtection of cancer.
 
 
+## WEBPAGE / DASHBOARD
+Click the link: https://mishabatoon.github.io/breastcancer/
+
 ## RESULTS
 
 **Linear Regression Model:** We analyzed the relationship of race and gender to the incident and mortality rate of Breast Cancer.
@@ -29,6 +32,7 @@ Jupyter notebook was used to process and clean all data sets (we took three data
 [Race Population and Breast Cancer Incidents for Female Gender](https://github.com/Mishabatoon/Healthcare_Project/tree/main/Linear%20Regression%20-%20Races_Incident%20Rate)
 
 [Male Gender Population and Breast Cancer Incidents](https://github.com/Mishabatoon/Healthcare_Project/blob/main/Linear%20Regression%20-%20Races_Incident%20Rate/Linear%20Regression%20-%20Breast%20Cancer%20-%20Male%20Incident.ipynb)
+
 
 
 **Breast Cancer Mortality**
@@ -41,7 +45,6 @@ From Year 2000 to 2018, White Race has the highest number of Breast Cancer Incid
 
 The States of California, New York, Florida, and Texas are among the highest number of Breast Cancer Incidents and Deaths since 2000 until 2018. This is correlated with the number of population in each state.
 
-These indicators can be viewed in the webpage / dashboard that we put together as part of this project: https://mishabatoon.github.io/breastcancer/
 
 ![combination](resource/incidence%26death.png)
 
