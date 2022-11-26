@@ -46,7 +46,6 @@ From Year 2000 to 2018, White Race has the highest number of Breast Cancer Incid
 
 The States of California, New York, Florida, and Texas are among the highest number of Breast Cancer Incidents and Deaths since 2000 until 2018. This is correlated with the number of population in each state.
 
-These indicators can be viewed in the webpage / dashboard that we put together as part of this project: https://mishabatoon.github.io/breastcancer/
 
 ![combination](resource/incidence%26death.png)
 
